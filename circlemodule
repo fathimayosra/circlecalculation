@@ -1,0 +1,5 @@
+radius =int(input("Enter your input:"))
+circumference= 2*3.14*radius
+area=3.14*radius*radius
+print ("the circumference is:",circumference)
+print("the area is:",area)
